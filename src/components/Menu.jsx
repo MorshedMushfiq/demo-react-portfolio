@@ -2,6 +2,7 @@ import React from 'react';
 
 const Menu = () => {
     return (
+        // our menu section 
         <div>
             <div className="header_section">
                 <div className="container">
@@ -13,22 +14,22 @@ const Menu = () => {
                         <div className="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul className="navbar-nav ml-auto">
                                 <li className="nav-item">
-                                    <a className="nav-link" href="index.html">Home</a>
+                                    <a className="nav-link" href="#">Home</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" href="about.html">About</a>
+                                    <a className="nav-link" href="#">About</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" href="portfolio.html">Portfolio</a>
+                                    <a className="nav-link" href="#">Portfolio</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" href="service.html">Service</a>
+                                    <a className="nav-link" href="#">Service</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" href="blog.html">Blog</a>
+                                    <a className="nav-link" href="#">Blog</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" href="contact.html">Contact Us</a>
+                                    <a className="nav-link" href="#">Contact Us</a>
                                 </li>
                             </ul>
                         </div>
