@@ -1,0 +1,43 @@
+import React from 'react';
+
+const Header = () => {
+    return (
+        // fregment tag
+        <div>
+            
+            <head>
+                
+                <meta charset="utf-8">
+                <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+               
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+              
+                <title>Joy Seno</title>
+                <meta name="keywords" content="">
+                <meta name="description" content="">
+                <meta name="author" content="">
+           
+                <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+                
+                <link rel="stylesheet" type="text/css" href="css/style.css">
+                
+                <link rel="stylesheet" href="css/responsive.css">
+                
+                <link rel="icon" href="images/fevicon.png" type="image/gif" />
+                
+                <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+                
+                <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+              
+                <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
+                
+                <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+            </head>
+            
+        </div>
+    );
+};
+
+export default Header;
